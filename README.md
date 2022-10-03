@@ -75,11 +75,6 @@ what can the doctor do :
      - Manage Patient's Prescription
      - Manage Personal Account
    
------------------------------------------------------------------------------------
-Validation is there for some of the forms so be careful while filling them
---------------------------------------------------------------------------------------
-
-###If you are looking for any modifications in the project for your own shop then feel free to contact https://webdevisaac.com
 
 
 
