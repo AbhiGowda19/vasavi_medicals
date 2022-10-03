@@ -1,5 +1,5 @@
 # PharmacyManagementSystem
-<h2>🔥Vasavi Medical Management System || Python Django ||Compsoft Technologies ||</h2>
+<h2>Vasavi Medical Management System || Python Django ||Compsoft Technologies ||</h2>
 <h3>Team : Abhishek K | Isaac | Keerthana | Sagar | Harshitha </h3>
   
    <p>Vasavi Medicals Management System programmed using Python Django. The system has 5 types of users are the Administrator, Pharmacist, Doctor, and Clerk & Patient</p>
